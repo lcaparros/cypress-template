@@ -1,0 +1,19 @@
+{
+  "name": "cypress-template",
+  "version": "1.0.0",
+  "description": "This is a simple Cypress template with some useful tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lcaparros/cypress-template.git"
+  },
+  "author": "Luis Caparros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lcaparros/cypress-template/issues"
+  },
+  "homepage": "https://github.com/lcaparros/cypress-template#readme"
+}
